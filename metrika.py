@@ -2,8 +2,8 @@ import requests
 from urllib.parse import urlencode
 from pprint import pprint
 
-COUNTER_ID = '45146250'
-TOKEN = 'AQAAAAAe3B77AARjXDZ5Z6CizEuKkMrKxmT3JoU'
+COUNTER_ID = 'id'
+TOKEN = 'yourtoken'
 
 
 class MetrikaBase:
